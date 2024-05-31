@@ -1,0 +1,11 @@
+/* src/components/Projects.css */
+.projects-heading {
+    background-color: #e9ecef;
+     /* Light gray background */
+    margin: 20px 0; /* Vertical margin */
+    padding: 10px 20px; /* Padding around the text */
+    border-radius: 5px;
+    text-align: center; /* Rounded corners */
+    color: #008080;
+  }
+    
