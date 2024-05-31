@@ -7,14 +7,14 @@ function Skills() {
   const skills = [
     { skill: 'Golang', proficiency: 80 },
     { skill: 'Langcahin Gemini Openai Llama2', proficiency: 75 },
-    { skill: 'C Programming', proficiency: 80 },
-    { skill: 'C++ Programming', proficiency: 70 },
+    { skill: 'C Programming', proficiency: 85 },
+    { skill: 'C++ Programming', proficiency: 75 },
     { skill: 'Data Structure', proficiency: 80 },
     { skill: 'Visual Basic', proficiency: 90},
     { skill: 'HTML/CSS', proficiency: 75 },
-    { skill: 'Java Script', proficiency: 75 },
+    { skill: 'Java Script', proficiency: 80 },
     { skill: 'Python', proficiency: 75 }, 
-    { skill: 'DBMS SQL', proficiency: 65 }, 
+    { skill: 'DBMS SQL', proficiency: 70 }, 
     // { skill: '', proficiency: 65 },
     
     // { skill: 'Node.js', proficiency: 70 },
